@@ -6,7 +6,7 @@ author:
   - name: K Quick
     url: https://kquicknyc.github.io/My-Blog/
     affiliation: John Jay College of Criminal Justice
-    affiliation_url: https://www.jjay.cuny.edu https://example.com/spacelysprokets
+    affiliation_url: https://www.jjay.cuny.edu 
 date: 09-02-2021
 output:
   distill::distill_article:
