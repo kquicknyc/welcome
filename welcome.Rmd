@@ -1,13 +1,12 @@
 ---
 title: "Welcome to My Blog"
 description: |
-  Welcome to our new blog, My Blog. We hope you enjoy 
-  reading what we have to say!
+  This is my first post and my first venture into the exciting world of cognitive psychology - although I suspect I have been engaged in cognition for quite some time...
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: K Quick
+    url: https://kquicknyc.github.io/My-Blog/
+    affiliation: John Jay College of Criminal Justice
+    affiliation_url: https://www.jjay.cuny.edu https://example.com/spacelysprokets
 date: 09-02-2021
 output:
   distill::distill_article:
@@ -23,4 +22,4 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-
+This is my first post.  Welcome to the world of cognitive psychology.  It all starts here.  It's like I tell my kids, "Positive attitude brings positive results!!!"
